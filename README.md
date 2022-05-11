@@ -6,7 +6,7 @@
 
 ## Github Pages Link
 
-[TITLE HERE Github Pages](https://patrick-dolan.github.io/APPLICATIONNAMEHERE/)
+[TITLE HERE Github Pages](https://patrick-dolan.github.io/PROJECT-NAME/)
 
 ## Technologies Used
 
@@ -21,17 +21,14 @@
 
 ## Setup/Installation Requirements
 
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-
+* Download or Clone the repo down to your computer.
+* Navigate into the "PROJECT-NAME" directory you just downloaded and open it with your terminal and code editor of choice of choice.
+* type "npm install" in your terminal to install dependencies.
+* type "npm run start" to launch the program.
 
 ## Known Bugs
 
-* Any known issues
-* should go here
+* No known issues
 
 ## Contact Me
 
